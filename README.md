@@ -1,2 +1,4 @@
 # hello-world
-informational
+Short Porch Baseball Company
+
+www.shortporchbaseballcompany.com
